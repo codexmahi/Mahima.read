@@ -1,4 +1,4 @@
-![Coding Cat](https://media.giphy.com/media/XDCgScF0Nq7ZS/giphy.gif)
+![Coding Cat](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWdibGZ6ZHAzZ29kM2RrZ2MwZjA0dXFpdXR1emQ4emdvY2MwYTBpZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif)
 
 ### Hey there! I'm Mahima ✨
 
@@ -33,4 +33,4 @@
 
 ### 🧠 Quote I Love
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> **"Code is like humor. When you have to explain it, it’s bad.” – Cory House
