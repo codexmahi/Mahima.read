@@ -5,9 +5,9 @@
 &emsp;I enjoy turning abstract ideas into tangible solutions through code.  
 &emsp;Currently exploring Web and building real-world projects one commit at a time.
 
-### 🔥
+### 🔥Present
 
-- 🎯 Present: Web-3 enthusiast  
+- 🎯 Web-3 enthusiast  
 - 🧠 Pursuing B.Tech CSE – Class of 2026
 
 ### 🤝 Let's connect!
